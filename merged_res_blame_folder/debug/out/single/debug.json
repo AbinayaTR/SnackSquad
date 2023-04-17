@@ -1,0 +1,146 @@
+[
+    {
+        "merged": "C:\\Users\\ccs-46\\.gradle\\daemon\\7.5\\com.example.snackordering.app-merged_res-41:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\ccs-46\\.gradle\\daemon\\7.5\\com.example.snackordering.app-main-43:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.snackordering.app-merged_res-41:/drawable_pop.jpg.flat",
+        "source": "com.example.snackordering.app-main-43:/drawable/pop.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ccs-46\\.gradle\\daemon\\7.5\\com.example.snackordering.app-merged_res-41:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ccs-46\\.gradle\\daemon\\7.5\\com.example.snackordering.app-main-43:\\mipmap-anydpi-v33\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ccs-46\\.gradle\\daemon\\7.5\\com.example.snackordering.app-merged_res-41:\\drawable_burger.jpg.flat",
+        "source": "C:\\Users\\ccs-46\\.gradle\\daemon\\7.5\\com.example.snackordering.app-main-43:\\drawable\\burger.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ccs-46\\.gradle\\daemon\\7.5\\com.example.snackordering.app-merged_res-41:\\drawable_order.png.flat",
+        "source": "C:\\Users\\ccs-46\\.gradle\\daemon\\7.5\\com.example.snackordering.app-main-43:\\drawable\\order.png"
+    },
+    {
+        "merged": "C:\\Users\\ccs-46\\.gradle\\daemon\\7.5\\com.example.snackordering.app-merged_res-41:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\ccs-46\\.gradle\\daemon\\7.5\\com.example.snackordering.app-main-43:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ccs-46\\.gradle\\daemon\\7.5\\com.example.snackordering.app-merged_res-41:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ccs-46\\.gradle\\daemon\\7.5\\com.example.snackordering.app-main-43:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ccs-46\\.gradle\\daemon\\7.5\\com.example.snackordering.app-merged_res-41:\\drawable_salad.jpg.flat",
+        "source": "C:\\Users\\ccs-46\\.gradle\\daemon\\7.5\\com.example.snackordering.app-main-43:\\drawable\\salad.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ccs-46\\.gradle\\daemon\\7.5\\com.example.snackordering.app-merged_res-41:\\drawable_img.png.flat",
+        "source": "C:\\Users\\ccs-46\\.gradle\\daemon\\7.5\\com.example.snackordering.app-main-43:\\drawable\\img.png"
+    },
+    {
+        "merged": "C:\\Users\\ccs-46\\.gradle\\daemon\\7.5\\com.example.snackordering.app-merged_res-41:\\drawable_pasta.jpg.flat",
+        "source": "C:\\Users\\ccs-46\\.gradle\\daemon\\7.5\\com.example.snackordering.app-main-43:\\drawable\\pasta.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ccs-46\\.gradle\\daemon\\7.5\\com.example.snackordering.app-merged_res-41:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ccs-46\\.gradle\\daemon\\7.5\\com.example.snackordering.app-main-43:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ccs-46\\.gradle\\daemon\\7.5\\com.example.snackordering.app-merged_res-41:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ccs-46\\.gradle\\daemon\\7.5\\com.example.snackordering.app-main-43:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ccs-46\\.gradle\\daemon\\7.5\\com.example.snackordering.app-merged_res-41:\\drawable_burger_background.xml.flat",
+        "source": "C:\\Users\\ccs-46\\.gradle\\daemon\\7.5\\com.example.snackordering.app-main-43:\\drawable\\burger_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ccs-46\\.gradle\\daemon\\7.5\\com.example.snackordering.app-merged_res-41:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ccs-46\\.gradle\\daemon\\7.5\\com.example.snackordering.app-main-43:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ccs-46\\.gradle\\daemon\\7.5\\com.example.snackordering.app-merged_res-41:\\drawable_login.png.flat",
+        "source": "C:\\Users\\ccs-46\\.gradle\\daemon\\7.5\\com.example.snackordering.app-main-43:\\drawable\\login.png"
+    },
+    {
+        "merged": "C:\\Users\\ccs-46\\.gradle\\daemon\\7.5\\com.example.snackordering.app-merged_res-41:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ccs-46\\.gradle\\daemon\\7.5\\com.example.snackordering.app-main-43:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ccs-46\\.gradle\\daemon\\7.5\\com.example.snackordering.app-merged_res-41:\\drawable_fast_food.png.flat",
+        "source": "C:\\Users\\ccs-46\\.gradle\\daemon\\7.5\\com.example.snackordering.app-main-43:\\drawable\\fast_food.png"
+    },
+    {
+        "merged": "C:\\Users\\ccs-46\\.gradle\\daemon\\7.5\\com.example.snackordering.app-merged_res-41:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ccs-46\\.gradle\\daemon\\7.5\\com.example.snackordering.app-main-43:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ccs-46\\.gradle\\daemon\\7.5\\com.example.snackordering.app-merged_res-41:\\drawable_login_screen.png.flat",
+        "source": "C:\\Users\\ccs-46\\.gradle\\daemon\\7.5\\com.example.snackordering.app-main-43:\\drawable\\login_screen.png"
+    },
+    {
+        "merged": "C:\\Users\\ccs-46\\.gradle\\daemon\\7.5\\com.example.snackordering.app-merged_res-41:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\ccs-46\\.gradle\\daemon\\7.5\\com.example.snackordering.app-main-43:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ccs-46\\.gradle\\daemon\\7.5\\com.example.snackordering.app-merged_res-41:\\drawable_sandwish.jpg.flat",
+        "source": "C:\\Users\\ccs-46\\.gradle\\daemon\\7.5\\com.example.snackordering.app-main-43:\\drawable\\sandwish.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ccs-46\\.gradle\\daemon\\7.5\\com.example.snackordering.app-merged_res-41:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ccs-46\\.gradle\\daemon\\7.5\\com.example.snackordering.app-main-43:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ccs-46\\.gradle\\daemon\\7.5\\com.example.snackordering.app-merged_res-41:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ccs-46\\.gradle\\daemon\\7.5\\com.example.snackordering.app-main-43:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ccs-46\\.gradle\\daemon\\7.5\\com.example.snackordering.app-merged_res-41:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\ccs-46\\.gradle\\daemon\\7.5\\com.example.snackordering.app-main-43:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\ccs-46\\.gradle\\daemon\\7.5\\com.example.snackordering.app-merged_res-41:\\drawable_trail.jpg.flat",
+        "source": "C:\\Users\\ccs-46\\.gradle\\daemon\\7.5\\com.example.snackordering.app-main-43:\\drawable\\trail.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ccs-46\\.gradle\\daemon\\7.5\\com.example.snackordering.app-merged_res-41:\\drawable_food_tip_im.jpg.flat",
+        "source": "C:\\Users\\ccs-46\\.gradle\\daemon\\7.5\\com.example.snackordering.app-main-43:\\drawable\\food_tip_im.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ccs-46\\.gradle\\daemon\\7.5\\com.example.snackordering.app-merged_res-41:\\mipmap-hdpi_fast_food.png.flat",
+        "source": "C:\\Users\\ccs-46\\.gradle\\daemon\\7.5\\com.example.snackordering.app-main-43:\\mipmap-hdpi\\fast_food.png"
+    },
+    {
+        "merged": "C:\\Users\\ccs-46\\.gradle\\daemon\\7.5\\com.example.snackordering.app-merged_res-41:\\drawable_tequila.jpg.flat",
+        "source": "C:\\Users\\ccs-46\\.gradle\\daemon\\7.5\\com.example.snackordering.app-main-43:\\drawable\\tequila.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ccs-46\\.gradle\\daemon\\7.5\\com.example.snackordering.app-merged_res-41:\\drawable_pack.jpg.flat",
+        "source": "C:\\Users\\ccs-46\\.gradle\\daemon\\7.5\\com.example.snackordering.app-main-43:\\drawable\\pack.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ccs-46\\.gradle\\daemon\\7.5\\com.example.snackordering.app-merged_res-41:\\drawable_wine.jpg.flat",
+        "source": "C:\\Users\\ccs-46\\.gradle\\daemon\\7.5\\com.example.snackordering.app-main-43:\\drawable\\wine.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ccs-46\\.gradle\\daemon\\7.5\\com.example.snackordering.app-merged_res-41:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\ccs-46\\.gradle\\daemon\\7.5\\com.example.snackordering.app-main-43:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ccs-46\\.gradle\\daemon\\7.5\\com.example.snackordering.app-merged_res-41:\\drawable_pop.jpg.flat",
+        "source": "C:\\Users\\ccs-46\\.gradle\\daemon\\7.5\\com.example.snackordering.app-main-43:\\drawable\\pop.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ccs-46\\.gradle\\daemon\\7.5\\com.example.snackordering.app-merged_res-41:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ccs-46\\.gradle\\daemon\\7.5\\com.example.snackordering.app-main-43:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.snackordering.app-merged_res-41:/drawable_wine.jpg.flat",
+        "source": "com.example.snackordering.app-main-43:/drawable/wine.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ccs-46\\.gradle\\daemon\\7.5\\com.example.snackordering.app-merged_res-41:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ccs-46\\.gradle\\daemon\\7.5\\com.example.snackordering.app-main-43:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ccs-46\\.gradle\\daemon\\7.5\\com.example.snackordering.app-merged_res-41:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ccs-46\\.gradle\\daemon\\7.5\\com.example.snackordering.app-main-43:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    }
+]
